@@ -1,4 +1,4 @@
-<h3>This tool is deprecated and I no longer maintain it.<h3>
+<h3>This tool is deprecated and I no longer maintain it.</h3>
 <br>
 
 This script can be used to download scan results through Tenable SC API. To get the results, the scan result ID should be provided in the begining. Once done, the script will produce an Excel file. <br>
